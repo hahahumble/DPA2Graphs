@@ -10,18 +10,18 @@ In this paper, we bridge the gap by demonstrating that an attacker can inject fa
 
 ## Usage
 1. Clone this repository and navigate to `Code` directory.
-```shell
+```bash
 git clone https://github.com/hahahumble/DPA2Graphs.git
 cd DPA2Graphs/Code
 ```
 
 2. Compile the Java source files.
-```shell
+```bash
 javac -cp "lib/ujmp-core-0.3.0.jar" -d out src/com/graph/**/*.java
 ```
 
 3. Run the program.
-```shell
+```bash
 java -cp "out:lib/ujmp-core-0.3.0.jar" com.graph.Main.AttackDegreeCentrality
 java -cp "out:lib/ujmp-core-0.3.0.jar" com.graph.Main.AttackLCC
 java -cp "out:lib/ujmp-core-0.3.0.jar" com.graph.Main.PerturbedLCC
