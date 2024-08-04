@@ -16,7 +16,7 @@ cd DPA2Graphs/Code
 ```
 
 2. Compile the Java source files.
-```
+```shell
 javac -cp "lib/ujmp-core-0.3.0.jar" -d out src/com/graph/**/*.java
 ```
 
