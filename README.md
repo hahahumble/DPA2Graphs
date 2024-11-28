@@ -1,3 +1,5 @@
+> This conference version of the paper has been accepted by IEEE ICDE 2025. 🎉
+
 # Data Poisoning Attacks to Local Differential Privacy Protocols for Graphs
 [[Technical Report](https://github.com/hahahumble/DPA2Graphs/blob/main/TechnicalReport.pdf)] [[Source Code](https://github.com/hahahumble/DPA2Graphs/tree/main/Code)]
 
